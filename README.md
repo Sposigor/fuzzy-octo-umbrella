@@ -1,5 +1,7 @@
 # DESAFIO - SEMANA 2 
 
+<img src = ".gitignore/img.png" align = "center">
+
 Um algoritmo é um conjunto de instruções e procedimentos lógicos para a solução de um determinado problema.
 
 Vamos pensar na declaração do Imposto de Renda de Pessoa Física (IRPF).
