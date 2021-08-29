@@ -1,6 +1,6 @@
 # DESAFIO - SEMANA 2 
 
-<img src = ".gitignore/img.png" align = "center">
+<img src = ".github/img.png" align = "center">
 
 Um algoritmo é um conjunto de instruções e procedimentos lógicos para a solução de um determinado problema.
 
